@@ -1,0 +1,1 @@
+This repo contains various code Katas to sharpen my problem solving skills
